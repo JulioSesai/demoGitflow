@@ -1,3 +1,5 @@
-function sum(a,b){
-    return a + b;
+function mult(a,b){
+
+    const result = a * b;
+    return result;
 }
